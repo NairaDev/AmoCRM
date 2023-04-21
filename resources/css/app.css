@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #339DC7   ;
+}
+h1{
+    color:white;
+    margin: 50px;
+    text-align: center;
+
+}
+table{
+    width: 100%;
+    border-radius: 5px;
+}
+
+th{
+    font-size: 18px;
+    color: white;
+}
